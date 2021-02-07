@@ -1,0 +1,1 @@
+First larger project for the Odin Project, which consists of building a Google homepage clone.
